@@ -49,10 +49,10 @@ The HRV Simulation Dashboard is a Python-based web application built with Dash t
 ---------------
 
 - System Design:  
-<img src="UML-dashboard.png" alt="UML Dashboard" width="400"/>
+<img src="UML-dashboard.png" alt="UML Dashboard" width="700"/>
 
 - User Interaction Flow:  
-<img src="UML-user.png" alt="UML User" width="400"/>
+<img src="UML-user.png" alt="UML User" height="500"/>
 
 
 
