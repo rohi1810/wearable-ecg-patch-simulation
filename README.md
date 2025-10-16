@@ -33,7 +33,7 @@ The HRV Simulation Dashboard is a Python-based web application built with Dash t
 ----------------------
 
 **Dashboard Overview:**
-![Dashboard Overview](Main-dashboard-image.png)
+![Dashboard Overview](Main-dashboard-Image.png)
 
 **HRV Plots by Condition:**
 - Rest Condition: ![HRV Rest](hrv_rest.png)
@@ -48,8 +48,10 @@ The HRV Simulation Dashboard is a Python-based web application built with Dash t
 🏗️ Architecture
 ---------------
 
-- System Design: ![UML Dashboard](UML-dashboard.png)
-- User Interaction Flow: ![UML User](UML-user.png)
+- System Design:
+  ![UML Dashboard](UML-dashboard.png)
+- User Interaction Flow:
+  ![UML User](UML-user.png)
 
 
 📈 HRV Metrics Explained
